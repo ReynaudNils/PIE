@@ -1,0 +1,57 @@
+body
+{
+    text-align: center;
+    font-family: Iwona-Regular, Iwona, DejaVuSans, sans-serif;
+}
+
+header {
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    color: white;
+    background-color: brown;
+    width: 100%;
+    text-align: center;
+    z-index: 100;
+}
+
+table{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1{
+    color: rgb(226, 151, 53);
+}
+
+.std_box
+{   
+    margin: 1em;
+    padding: 1em;
+    text-align: center;
+    line-height: 2em;
+    border: 3px black;
+    color: whitesmoke;
+    background-color: rgb(226, 151, 53);
+    font-size: 1em;
+}
+
+.std_button{
+    color: rgb(226, 151, 53);
+}
+
+.instruction{
+    color: rgb(6, 5, 61);
+}
+
+.submit{
+    color: rgb(226, 151, 53);
+}
+
+#liked_film{
+    color: rgb(6, 41, 35);
+}
+
+#id{
+    align-items: right;
+}
